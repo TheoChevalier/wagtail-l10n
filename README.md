@@ -1,0 +1,1 @@
+# wagtail-l10n
